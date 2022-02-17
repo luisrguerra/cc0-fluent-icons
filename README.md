@@ -8,3 +8,4 @@ Optimized for resolutions multiple of 8x8
 ![user-home](https://user-images.githubusercontent.com/31783838/154281563-5ff78f08-b3b3-4340-b8cd-843791be8464.png)
 ![applications-system](https://user-images.githubusercontent.com/31783838/154281445-05f25ef2-08db-482e-bb0c-d08cddd9990e.png)
 ![system-run](https://user-images.githubusercontent.com/31783838/154281528-54d5cc6e-1908-4bf2-ab05-b4d348a0509c.png)
+![play](https://user-images.githubusercontent.com/31783838/154471829-af375456-8d17-40ab-87fc-b1789e01d767.png)
