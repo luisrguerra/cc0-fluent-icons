@@ -10,3 +10,5 @@ Optimized for resolutions multiple of 8x8
 ![system-run](https://user-images.githubusercontent.com/31783838/154281528-54d5cc6e-1908-4bf2-ab05-b4d348a0509c.png)
 ![play](https://user-images.githubusercontent.com/31783838/154471829-af375456-8d17-40ab-87fc-b1789e01d767.png)
 ![folder-settings](https://user-images.githubusercontent.com/31783838/154476043-dfb92d0c-1fed-4c3a-898b-6dc6ca85211b.png)
+![edit-undo](https://user-images.githubusercontent.com/31783838/154742864-955eac4c-5bbc-4674-81f7-b147daf54720.png)
+![edit-redo](https://user-images.githubusercontent.com/31783838/154742880-eb8bae90-c0e3-44c1-a20f-3cf6b6867bb7.png)
