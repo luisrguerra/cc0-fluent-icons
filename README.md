@@ -14,9 +14,6 @@ Optimized for resolutions multiple of 8x8
 ![edit-redo](https://user-images.githubusercontent.com/31783838/154742880-eb8bae90-c0e3-44c1-a20f-3cf6b6867bb7.png)
 ![save](https://user-images.githubusercontent.com/31783838/154809521-d2497553-14d5-4068-b5c9-dd7a27dfff40.png)
 ![save-as](https://user-images.githubusercontent.com/31783838/154809529-163f451f-2a2e-47fe-9a85-4620a999bb4a.png)
-![document-new-24px](https://user-images.githubusercontent.com/31783838/154941724-fc630369-0ace-4a1f-94c1-ea722af2af59.png)
-![edit-copy-24px](https://user-images.githubusercontent.com/31783838/154941736-74cc0bf9-25c5-43c4-a698-d51ddd5a4acb.png)
-![edit-find-24px](https://user-images.githubusercontent.com/31783838/154941747-fe50188d-6a44-425c-ae56-633652eb178b.png)
-![edit-find-replace-24px](https://user-images.githubusercontent.com/31783838/154941764-be42e83a-ad89-4b97-8ef7-2130b5e7db11.png)
-![bookmark-new-24px](https://user-images.githubusercontent.com/31783838/154941783-590ee731-6650-46da-bdb9-7ea2a9823adc.png)
-![edit-paste-24px](https://user-images.githubusercontent.com/31783838/154941806-a56ee4ad-6ac7-4d59-ac13-15fa85d2a0a1.png)
+
+<img src="https://user-images.githubusercontent.com/31783838/154941724-fc630369-0ace-4a1f-94c1-ea722af2af59.png"  width="120" height="120" /> <img src="https://user-images.githubusercontent.com/31783838/154941736-74cc0bf9-25c5-43c4-a698-d51ddd5a4acb.png"  width="120" height="120" /> <img src="https://user-images.githubusercontent.com/31783838/154941736-74cc0bf9-25c5-43c4-a698-d51ddd5a4acb.png"  width="120" height="120" /> <img src="https://user-images.githubusercontent.com/31783838/154941747-fe50188d-6a44-425c-ae56-633652eb178b.png"  width="120" height="120" /> <img src="https://user-images.githubusercontent.com/31783838/154941764-be42e83a-ad89-4b97-8ef7-2130b5e7db11.png"  width="120" height="120" /> <img src="https://user-images.githubusercontent.com/31783838/154941783-590ee731-6650-46da-bdb9-7ea2a9823adc.png"  width="120" height="120" /> <img src="https://user-images.githubusercontent.com/31783838/154941806-a56ee4ad-6ac7-4d59-ac13-15fa85d2a0a1.png"  width="120" height="120" />
+
