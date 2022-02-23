@@ -14,6 +14,11 @@ Optimized for resolutions multiple of 8x8:
 ![edit-redo](https://user-images.githubusercontent.com/31783838/154742880-eb8bae90-c0e3-44c1-a20f-3cf6b6867bb7.png)
 ![save](https://user-images.githubusercontent.com/31783838/154809521-d2497553-14d5-4068-b5c9-dd7a27dfff40.png)
 ![save-as](https://user-images.githubusercontent.com/31783838/154809529-163f451f-2a2e-47fe-9a85-4620a999bb4a.png)
+![bp-toggle](https://user-images.githubusercontent.com/31783838/155318375-37709edf-9128-4d83-a4a1-c24bc05128b0.png)
+![bp-prev](https://user-images.githubusercontent.com/31783838/155318389-0979f0f9-eb07-4f78-bf49-78cba316af86.png)
+![bp-next](https://user-images.githubusercontent.com/31783838/155318403-670fdc79-f14b-4f5d-93f9-2a2b3c10e931.png)
+![bp-rm-all](https://user-images.githubusercontent.com/31783838/155318420-030b4da7-aaf2-42b0-a0c6-ac5169bbb349.png)
+![dialog-error](https://user-images.githubusercontent.com/31783838/155318431-f77f0283-e51f-4531-8cd5-fb0f3548f3f4.png)
 
 Optimized for resolutions multiple of 24x24:
 
